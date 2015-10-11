@@ -76,6 +76,6 @@ Vid upplösningen av föreningen överlämnas tillgångarna till medlemmarna.
 
 ---
 
-https://github.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md
-
-[PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md)
+* Stadgarna är baserade på Lunds kommuns hemsida [läst 10 oktober 2015](http://www.lund.se/Medborgare/Uppleva--gora/Foreningar/Bilda-forening/)
+* https://github.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md
+* [PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md)
