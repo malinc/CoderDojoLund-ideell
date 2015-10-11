@@ -4,7 +4,8 @@
 Föreningens namn är *CoderDojo Lund*, med Lund som hemort.
 
 #§ 2 Ändamål och uppgifter
-Föreningen har till uppgift att verka för att lära barn och ungdomar använda datorn som ett skapande verktyg främst genom programmering. CoderDojo Lund ska verka i samma anda som den internationella CoderDojo-rörelsen, [coderdojo.com](https://coderdojo.com/). 
+Föreningen har till uppgift att att hjälpa barn och ungdomar att lära sig att använda dator och motsvarande elektroniska hjälpmedel som ett skapande verktyg,
+'främst genom programmering. CoderDojo Lund ska verka i samma anda som den internationella CoderDojo-rörelsen, [coderdojo.com](https://coderdojo.com/). 
 
 Föreningen är partipolitiskt och religiöst obunden. 
 
@@ -27,16 +28,17 @@ Medlem som bryter mot dessa stadgar eller genom sitt handlande åsamkar förenin
 Föreningens verksamhets- och räkenskapsår är kalenderår. Räkenskaperna och handlingar rörande förvaltningen ska tillställas revisorerna minst fyra veckor före årsmötet. Revisorerna ska till styrelsen två veckor före årsmötet överlämna en skriftlig berättelse om den utförda granskningen.
 
 #§ 7 Föreningsmöte 
-Beslutanderätten i föreningen utövas av dess medlemmar på föreningsmöten. Föreningsmöten hålls då styrelsen så anser det behövligt eller då minst en tiondel (1/10) av medlemmarna kräver det för att behandla ett och samma ärende. 
+Beslutanderätten i föreningen utövas av dess medlemmar på föreningsmöten. Föreningsmöten hålls då styrelsen så anser det behövligt eller då minst en tredjedel (1/3) av medlemmarna kräver det för att behandla ett och samma ärende. 
 Föreningens årsmöte ska hållas före 15 mars. 
 
 På föreningsmöte har endast föreningens medlemmar rösträtt och endast medlem kan inväljas i styrelsen. Som medlem räknas endast den som erlagt medlemsavgift för det löpande verksamhetsåret. 
 
-Hedersmedlem har närvaro-, yttrande- och förslagsrätt vid föreningens möten. På föreningsmötena fattas besluten med enkel röstmajoritet. Röstningen sker öppet om in någon av mötesdeltagarna kräver sluten omröstning. Val förrättas med slutna valsedlar. Vid lika röstetal avgör lotten. 
+Hedersmedlem har närvaro-, yttrande- och förslagsrätt vid föreningens möten. På föreningsmötena fattas besluten med enkel röstmajoritet. Röstningen sker öppet om inte någon av mötesdeltagarna kräver sluten omröstning. Val förrättas med acklamation. Vid lika röstetal avgör lotten. 
 
-Kallelse till föreningsmöte ska tillställas medlemmarna genom brev eller på annat sätt som beslutas av årsmötet. I kallelsen ska meddelas vilka ärenden som ska behandlas.
+Kallelse till föreningsmöte ska tillställas medlemmarna genom via anslag på föreningens hemsida eller på annat sätt som beslutas av årsmötet. I kallelsen ska meddelas vilka ärenden som ska behandlas.
 
 På föreningens årsmöte ska följande ärenden behandlas: 
+
 1. att mötet är stadgeenligt utlyst 
 1. fastställande av mötets dagordning 
 1. val av ordförande, sekreterare och två protokolljusterare/rösträknare för mötet 
@@ -65,9 +67,9 @@ Styrelsen är beslutsför om ordföranden eller vice ordföranden och minst häl
 Kallelse till styrelsens möten ska alltid tillställas revisorerna.
 
 #§ 9 Firmatecknare 
-Föreningens firma tecknas av två i förening, föreningens ordförande eller vice ordförande tillsammans med kassören. 
+Föreningens firma tecknas var för sig av föreningens ordförande och kassör. 
 
-Styrelsen utser en styrelseledamot att teckna firma i kassörens ställe, då denne är förhindrad. Vid kan styrelsen utfärda fullmakt att teckna firma i vissa ärenden.
+Styrelsen utser en styrelseledamot att teckna firma i kassörens ställe, då denne är förhindrad. Vid behov kan styrelsen utfärda fullmakt att teckna firma i vissa ärenden.
 
 #§ 10 Upplösning av föreningen 
 Beslut om upplösning av föreningen ska fattas av föreningens årsmöte samt därefter vid föreningsmöte som hålls tidigast en månad efter årsmötet. Ärendet ska omnämnas i kallelsen till mötet. beslut om upplösning av föreningen kan inte fattas med annat än med fyra femtedels (4/5) majoritet bland de närvarande medlemmarna. 
@@ -79,3 +81,8 @@ Vid upplösningen av föreningen överlämnas tillgångarna till medlemmarna.
 * Stadgarna är baserade på Lunds kommuns hemsida, *Bilda förening*, [läst 10 oktober 2015](http://www.lund.se/Medborgare/Uppleva--gora/Foreningar/Bilda-forening/)
 * https://github.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md
 * [PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md)
+
+---
+
+# Oklart
+* Räcker det att nämna att revisorerna väljs vid årsmötet? Behöver man inte definiera antal och ev. krav på dessa? Motsvarande för kassör.
