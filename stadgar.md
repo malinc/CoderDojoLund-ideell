@@ -1,5 +1,3 @@
-[PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md)
-
 #Stadgar för *CoderDojo Lund, ideell förening*
 
 # §1 Föreningens namn och hemort 
@@ -79,3 +77,5 @@ Vid upplösningen av föreningen överlämnas tillgångarna till medlemmarna.
 ---
 
 https://github.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md
+
+[PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md)
