@@ -2,18 +2,15 @@
 Föreningens namn är *CoderDojo Lund*, med Lund som hemort 
 
 #§ 2 Ändamål och uppgifter 
-Föreningen har till uppgift att verka som gemensam minoritets-, intresse och fritidsorganisation för ................... samt att främja ............................ gemensamma sociala och kulturella strävanden med målet att uppnå jämställdhet med landets majoritetsbefolkning. 
+Föreningen har till uppgift att verka för att lära barn och ungdomar använda datorn som ett skapande verktyg främst genom programmering. CoderDojo Lund ska verka i samma anda som och ha aktiv kontakt med den internationella CoderDojo-rörelsen. 
 
 Föreningen är partipolitiskt och religiöst obunden. 
 
 Föreningen förverkligar sin uppgift i enlighet med sina stadgar samt på det sätt som fastställts vid föreningens möten.
 
 För att förverkliga sina mål kan föreningen anordna: 
-* möten och tillställningar för behandling av aktuella kultur- och andra samhällsfrågor 
-* studie- och annan fritidsverksamhet bland sina medlemmar 
-* informations- och rådgivningsverksamhet 
-* göra framställningar och förslag till myndigheter om medlemmarnas situation och upprätthålla kontakt med dessa 
-* för finansiering av föreningens verksamhet uppbär föreningen medlemsavgift av sina medlemmar samt mottar bidrag och donationer.
+* träffar för barn och ungdomar med syftet att lära ut programmering.
+* kompetensutveckling för
 
 #§ 3 Medlemmar 
 Medlem i föreningen kan varje person bli som förbinder sig att följa dessa stadgar. Föreningen är skyldig att föra förteckning över sina medlemmar. Till hedersmedlem kan på styrelsens framställan kallas en person som på ett förtjänstfullt sätt verkat för föreningens bästa.
