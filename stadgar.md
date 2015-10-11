@@ -1,3 +1,5 @@
+#Stadgar för *CoderDojo Lund, ideell förening*
+
 # §1 Föreningens namn och hemort 
 Föreningens namn är *CoderDojo Lund*, med Lund som hemort 
 
@@ -71,3 +73,8 @@ Styrelsen utser en styrelseledamot att teckna firma i kassörens ställe, då de
 Beslut om upplösning av föreningen ska fattas av föreningens årsmöte samt därefter vid föreningsmöte som hålls tidigast en månad efter årsmötet. Ärendet ska omnämnas i kallelsen till mötet. beslut om upplösning av föreningen kan inte fattas med annat än med fyra femtedels (4/5) majoritet bland de närvarande medlemmarna. 
 
 Vid upplösningen av föreningen överlämnas tillgångarna till medlemmarna.
+
+---
+
+https://github.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md
+[PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md)
