@@ -1,7 +1,7 @@
 #Stadgar för *CoderDojo Lund, ideell förening*
 
 # §1 Föreningens namn och hemort 
-Föreningens namn är *CoderDojo Lund*, med Lund som hemort 
+Föreningens namn är *CoderDojo Lund*, med Lund som hemort.
 
 #§ 2 Ändamål och uppgifter
 Föreningen har till uppgift att verka för att lära barn och ungdomar använda datorn som ett skapande verktyg främst genom programmering. CoderDojo Lund ska verka i samma anda som den internationella CoderDojo-rörelsen. 
@@ -76,6 +76,6 @@ Vid upplösningen av föreningen överlämnas tillgångarna till medlemmarna.
 
 ---
 
-* Stadgarna är baserade på Lunds kommuns hemsida [läst 10 oktober 2015](http://www.lund.se/Medborgare/Uppleva--gora/Foreningar/Bilda-forening/)
+* Stadgarna är baserade på Lunds kommuns hemsida, *Bilda förening*, [läst 10 oktober 2015](http://www.lund.se/Medborgare/Uppleva--gora/Foreningar/Bilda-forening/)
 * https://github.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md
 * [PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md)
