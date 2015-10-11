@@ -1,16 +1,16 @@
 # §1 Föreningens namn och hemort 
 Föreningens namn är *CoderDojo Lund*, med Lund som hemort 
 
-#§ 2 Ändamål och uppgifter 
-Föreningen har till uppgift att verka för att lära barn och ungdomar använda datorn som ett skapande verktyg främst genom programmering. CoderDojo Lund ska verka i samma anda som och ha aktiv kontakt med den internationella CoderDojo-rörelsen. 
+#§ 2 Ändamål och uppgifter
+Föreningen har till uppgift att verka för att lära barn och ungdomar använda datorn som ett skapande verktyg främst genom programmering. CoderDojo Lund ska verka i samma anda som den internationella CoderDojo-rörelsen. 
 
 Föreningen är partipolitiskt och religiöst obunden. 
 
 Föreningen förverkligar sin uppgift i enlighet med sina stadgar samt på det sätt som fastställts vid föreningens möten.
 
-För att förverkliga sina mål kan föreningen anordna: 
-* träffar för barn och ungdomar med syftet att lära ut programmering.
-* kompetensutveckling för
+För att förverkliga sina mål kan föreningen anordna
+* träffar för barn och ungdomar med syftet att lära ut programmering och
+* relevant kompetensutveckling för föreningens medlemmar.
 
 #§ 3 Medlemmar 
 Medlem i föreningen kan varje person bli som förbinder sig att följa dessa stadgar. Föreningen är skyldig att föra förteckning över sina medlemmar. Till hedersmedlem kan på styrelsens framställan kallas en person som på ett förtjänstfullt sätt verkat för föreningens bästa.
@@ -51,7 +51,7 @@ På föreningens årsmöte ska följande ärenden behandlas:
 #§ 8 Styrelsen 
 Föreningens verkställande organ är styrelsen. 
 
-I styrelsen ingår föreningens ordförande, som väljs för högst två år i sänder samt minst fyra övriga ledamöter, bland vilka styrelsen väljer vice ordförande för ett kalenderår i sänder. 
+I styrelsen ingår föreningens ordförande, som väljs för högst två år i sänder samt minst två övriga ledamöter, bland vilka styrelsen väljer vice ordförande för ett kalenderår i sänder. 
 
 Styrelsens ledamöter väljs för två år i taget, så att årligen hälften av dem är i tur att avgå. 
 
@@ -63,11 +63,11 @@ Styrelsen är beslutsför om ordföranden eller vice ordföranden och minst häl
 Kallelse till styrelsens möten ska alltid tillställas revisorerna.
 
 #§ 9 Firmatecknare 
-Föreningens firma tecknas av två i föreningen, föreningens ordförande eller vice ordförande tillsammans med kassören. 
+Föreningens firma tecknas av två i förening, föreningens ordförande eller vice ordförande tillsammans med kassören. 
 
 Styrelsen utser en styrelseledamot att teckna firma i kassörens ställe, då denne är förhindrad. Vid kan styrelsen utfärda fullmakt att teckna firma i vissa ärenden.
 
 #§ 10 Upplösning av föreningen 
 Beslut om upplösning av föreningen ska fattas av föreningens årsmöte samt därefter vid föreningsmöte som hålls tidigast en månad efter årsmötet. Ärendet ska omnämnas i kallelsen till mötet. beslut om upplösning av föreningen kan inte fattas med annat än med fyra femtedels (4/5) majoritet bland de närvarande medlemmarna. 
 
-Vid upplösningen av föreningen överlämnas tillgångarna till föreningens förbund eller kommunen.
+Vid upplösningen av föreningen överlämnas tillgångarna till medlemmarna.
