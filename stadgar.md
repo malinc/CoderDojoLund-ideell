@@ -4,8 +4,8 @@
 Föreningens namn är *CoderDojo Lund*, med Lund som hemort.
 
 #§ 2 Ändamål och uppgifter
-Föreningen har till uppgift att att hjälpa barn och ungdomar att lära sig att använda dator och motsvarande elektroniska hjälpmedel som ett skapande verktyg,
-'främst genom programmering. CoderDojo Lund ska verka i samma anda som den internationella CoderDojo-rörelsen, [coderdojo.com](https://coderdojo.com/). 
+Föreningen har till uppgift att att hjälpa barn och ungdomar att använda dator och motsvarande elektroniska hjälpmedel som ett skapande verktyg,
+främst genom att lära ut programmering. CoderDojo Lund ska verka i samma anda som den internationella CoderDojo-rörelsen, [coderdojo.com](https://coderdojo.com/). 
 
 Föreningen är partipolitiskt och religiöst obunden. 
 
@@ -79,10 +79,6 @@ Vid upplösningen av föreningen överlämnas tillgångarna till medlemmarna.
 ---
 
 * Stadgarna är baserade på Lunds kommuns hemsida, *Bilda förening*, [läst 10 oktober 2015](http://www.lund.se/Medborgare/Uppleva--gora/Foreningar/Bilda-forening/)
-* https://github.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md
-* [PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md)
+* [PDF för utskrift](https://gitprint.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md) av stadgarna, som hittas på
+https://github.com/carlrobert/CoderDojoLund-ideell/edit/master/stadgar.md
 
----
-
-# Oklart
-* Räcker det att nämna att revisorerna väljs vid årsmötet? Behöver man inte definiera antal och ev. krav på dessa? Motsvarande för kassör.
